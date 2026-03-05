@@ -113,17 +113,10 @@ To run locally, simply open `index.html` in any browser. No dependencies or inst
 - 📈 **Professionals** looking to upskill strategically
 
 ---
-
-## 🙋 About the Developer
-
-Built with curiosity and a drive to make career guidance accessible to everyone.
-
-Feel free to connect, give feedback, or contribute!
-
----
-
 <div align="center">
+ 
+  
+Linkdin - www.linkedin.com/in/sahil-sathe
 
-Made with ❤️ using [Botpress](https://botpress.com) &nbsp;|&nbsp; Hosted on [GitHub Pages](https://pages.github.com)
-
+ &nbsp;
 </div>
