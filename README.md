@@ -83,17 +83,7 @@ When you open Skill Guide, you're greeted with **4 powerful modes** to choose fr
 3. Follow the bot's prompts and interact naturally
 4. Get instant, personalized career guidance!
 
-👉 **[Launch Skill Guide →](https://cdn.botpress.cloud/webchat/v3.6/shareable.html?configUrl=https://files.bpcontent.cloud/2026/02/12/02/20260212024435-FPLPUT5I.json)**
-
----
-
-## 📂 Repository Structure
-
-```
-📁 skill-guide/
-├── index.html       # Landing page (GitHub Pages)
-└── README.md        # You're reading this!
-```
+👉 **[Launch Skill Guide →](https://sahil1294.github.io/skill-guide-bot/)**
 
 ---
 
